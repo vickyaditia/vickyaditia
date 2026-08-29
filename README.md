@@ -2,7 +2,7 @@
 
 ### Data Scientist | Data Analyst | Machine Learning Enthusiast
 
-🎓 Fresh Graduate in Data Science from Institut Teknologi Sumatera (ITERA)
+🎓 BSc Data Science from Institut Teknologi Sumatera (ITERA)
 
 📊 Passionate about transforming data into meaningful insights and business decisions.
 
