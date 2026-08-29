@@ -66,7 +66,7 @@ Data analysis project using:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicky-aditia-7b96081a4/)
 
-[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]()
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vicky-aditia-portfolio-cnwbnfirv-vicky-surfer.vercel.app/)
 
 ---
 
